@@ -1,0 +1,17 @@
+[
+    {
+        "file": "D://StatComp20093/src/rwMetropolisC.cpp",
+        "file_last_write": 1608399746.0,
+        "definitions": [
+            {
+                "usr": "c:@F@rwMetropolis#f#f#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rwMetropolis(float, float, int)",
+                "file": "D://StatComp20093/src/rwMetropolisC.cpp",
+                "line": 17,
+                "column": 6
+            }
+        ]
+    }
+]
