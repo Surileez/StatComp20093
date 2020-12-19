@@ -66,6 +66,7 @@ simGBM <- function (SO,mu,sigma,T,numSteps,numRep1)
 #' @useDynLib StatComp20093
 #' @examples
 #' \dontrun{
+#' library(quantmod)
 #' x<-'XF'
 #' y<-'HS300'
 #' d1<-'2019-01-02'

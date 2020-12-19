@@ -29,6 +29,7 @@ Calculate the cumulative abnormal return of the stocks using event study method.
 }
 \examples{
 \dontrun{
+library(quantmod)
 x<-'XF'
 y<-'HS300'
 d1<-'2019-01-02'
