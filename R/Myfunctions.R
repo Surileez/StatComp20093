@@ -47,7 +47,7 @@ simGBM <- function (SO,mu,sigma,T,numSteps,numRep1)
   return(pathMatrix)
 }
 
-#' @title Use three inputs to predict response using R.
+#' @title Use event study method to get cumulative abnormal return.
 #' @description Calculate the cumulative abnormal return of the stocks using event study method.
 #' @param r individual stock return(numeric vector)
 #' @param rm market return(numeric vector)
@@ -65,6 +65,7 @@ simGBM <- function (SO,mu,sigma,T,numSteps,numRep1)
 #' @examples
 #' \dontrun{
 #' library(quantmod)
+#' options ("getSymbols.warning4.0" = FALSE)
 #' x<-'XF'
 #' y<-'HS300'
 #' d1<-'2019-01-02'
