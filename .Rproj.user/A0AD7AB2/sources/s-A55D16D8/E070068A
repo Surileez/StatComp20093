@@ -1,17 +1,17 @@
 {
-    "id": "61197FF0",
+    "id": "E070068A",
     "path": "D:/StatComp20093/DESCRIPTION",
     "project_path": "DESCRIPTION",
     "type": "dcf",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1608612249775.0,
+    "created": 1608618757863.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 4,
     "properties": {
-        "cursorPosition": "18,52",
-        "scrollLine": "0"
+        "cursorPosition": "14,15",
+        "scrollLine": "2"
     },
     "folds": "",
     "lastKnownWriteTime": 1608607928,
